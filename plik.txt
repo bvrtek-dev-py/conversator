@@ -1,2 +1,3 @@
 This is my plik.txt file
-Added a new line of text
+Added a new line of text!!!!!
+But here are else ...
